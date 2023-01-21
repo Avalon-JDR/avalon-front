@@ -1,0 +1,11 @@
+.inventory {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-width: 200px;
+  border: 1px solid black;
+}
+
+.item {
+    margin: 2px;
+}

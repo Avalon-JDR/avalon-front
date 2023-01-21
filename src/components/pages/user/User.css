@@ -1,0 +1,13 @@
+.UserContainer {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+}
+
+.InventorySection {
+  width: 50%;
+}
+
+.ProfileSection {
+  width: 50%;
+}
